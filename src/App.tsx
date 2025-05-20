@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import FeaturesShowcase from './components/FeaturesShowcase';
 import SmartControls from './components/SmartControls';
 import ProductShowcase from './components/ProductShowcase';
+import ProductGallery3D from './components/ProductGallery3D';
 import OurStory from './components/OurStory';
 import TeamSection from './components/TeamSection';
 import AchievementsTimeline from './components/AchievementsTimeline';
@@ -58,6 +59,7 @@ function App() {
           <FeaturesShowcase />
           <SmartControls />
           <ProductShowcase />
+          <ProductGallery3D />
           <OurStory />
           <AchievementsTimeline />
           <FutureVision />
